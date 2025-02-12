@@ -9,6 +9,9 @@ If you think it has helped you, you can star this repo and join the [Stargazers]
 
 This repo has been developed on a voluntary basis, so if something is missing or needs to be corrected, please contact the relevant people and let us know and contribute to our arrangement as soon as possible 👍🏻
 
+[![Buy Me a Coffee](https://your-custom-image-url.com)](https://www.buymeacoffee.com/yourusername)
+
+
 ## 🧾 Lisans
 
 ```
