@@ -9,7 +9,6 @@ If you think it has helped you, you can star this repo and join the [Stargazers]
 
 This repo has been developed on a voluntary basis, so if something is missing or needs to be corrected, please contact the relevant people and let us know and contribute to our arrangement as soon as possible 👍🏻
 
-[![Buy Me a Coffee](https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/616e4ae6995fb288e434c3f0927541ce.png?resize=400x0)](https://www.buymeacoffee.com/multigroup)
 
 
 ## 🧾 Lisans
